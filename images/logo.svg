@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+    <defs>
+        <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#c9a96e"/>
+            <stop offset="100%" style="stop-color:#a68b56"/>
+        </linearGradient>
+    </defs>
+    <text x="10" y="35" font-family="'Noto Serif TC', serif" font-size="24" fill="url(#gold)">馥儷</text>
+    <text x="80" y="25" font-family="'Noto Sans TC', sans-serif" font-size="14" fill="#1a3a5c">Fully Clinic</text>
+    <text x="80" y="40" font-family="'Noto Sans TC', sans-serif" font-size="10" fill="#666">澳門馥奧館</text>
+</svg>
